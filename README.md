@@ -1,13 +1,11 @@
 
-# Water Sensor and LEDs
+# Button and LEDs
 
 This Android Things sample demonstrates how to turn LEDs on and off when pressing a button.
 
-## Screenshots
+## Video
 
-<iframe src="https://giphy.com/embed/f8W624ZMJJkA7uIucj" width="264" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/f8W624ZMJJkA7uIucj">via GIPHY</a></p>
-
-[YouTube Demo](https://www.youtube.com/watch?v=BUid3QG0m7s&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BUid3QG0m7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pre-requisites
 
